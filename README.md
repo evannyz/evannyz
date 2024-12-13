@@ -12,7 +12,7 @@ Soy desarrollador de software con interés en explorar nuevas tecnologías para 
 Actualmente resido en la región de Valparaíso, Chile.
 
 ## ¿A qué me dedico?
-Soy estudiante de Ingeniería en Informática en el Instituto Profesional Inacap y, además, estoy cursando Python en Talento Digital.
+Soy estudiante de Ingeniería en Informática en el Instituto Profesional Inacap y, además, soy certificado en desarrollo de aplicaciones Full Stack en Python en Talento Digital.
 
 ## ¿Cuál es mi formación?
 Soy técnico en electricidad y electrónica. Mi interés en la programación surgió al trabajar con PLCs y procesadores, y estoy entusiasmado por iniciar mi carrera en el desarrollo de software.
